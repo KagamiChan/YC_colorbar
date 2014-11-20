@@ -1,0 +1,1 @@
+x264 colorbar.avs -o colorbar.mp4 --preset placebo --tune stillimage
